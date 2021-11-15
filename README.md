@@ -22,10 +22,20 @@
 3. Возможность удаления и изменения
 4. Отметка отвечающая за состояние (Выполнен или нет)
 
+Дополнительные требования:
+1. use react native for web https://codesandbox.io/s/react-native-q4qymyp2l6?file=/src/App.js
+2. for style use https://styled-components.com/docs/basics#react-native
+3. Use free API somewhere to get time like this https://rapidapi.com/transloc/api/openapi-1-2/
+make sure the api is responsive
+
 ## Стэк технологий, который я использовал:
 
 React JS
 Material UI
 SASS
 Moment JS
+
+Styled-components
+Axios
+React-native-web
 
